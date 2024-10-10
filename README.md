@@ -26,14 +26,10 @@ Copy code
 - **Workout Types**: Log runs or cycling with specific details.
 - **Interactive Map**: View and manage workout locations directly on the map.
 
-## Getting Started
+![Screenshot 2024-10-10 122322](https://github.com/user-attachments/assets/60c9f851-39ce-4e30-85c2-4fbd8e5006e6)
+![Screenshot 2024-10-10 122333](https://github.com/user-attachments/assets/60be57e3-bd10-47c6-ba41-1a9bab3a0c7a)
+![Screenshot 2024-10-10 122357](https://github.com/user-attachments/assets/85848fcd-8ac2-4d54-974a-854129fc342f)
 
-To use **Mapty**, clone the repository and open `index.html` in your browser.
-
-## Technologies Used
-**HTML**: For structuring the app.
-**CSS**: For styling the user interface.
-**JavaScript**: To add dynamic functionality and geolocation features.
 
 ## Contributing
 Contributions are welcome! If you'd like to suggest improvements or report issues, feel free to open an issue or submit a pull request.
